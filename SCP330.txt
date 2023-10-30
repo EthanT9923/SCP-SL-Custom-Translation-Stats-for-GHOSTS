@@ -1,0 +1,40 @@
+Candies
+<color=#FFFF00>⦿</color>Rainbow Candy
+Its a hard piece of rock candy, packed with all sorts of flavours.
+<size=15> Creates a cloud that gives the following: \n<size=12> <color=#D8F0FF>+5% Move Speed</color>, <color=#FFFF00>+15% Damage Reduction</color>, <color=#1FFF00>Heals 1 HP/<size=9>s</color><size=12>. \n <color=#DBB1DB><i>Survive a hit that would kill you.</i></color> <color=#D8D8D8>(One-time use)</color> \n<size=12><color=#FFFF00>Lasts 3 seconds when leaving the cloud.</color>
+<color=#F7F582>💗</color>Yellow Candy
+The overwhelming smell of lemon makes you cringe a little.
+<size=16>Gain <color=#FEFFC7>Infinite Stamina</color> and <color=#D8F0FF>+50% Move speed</color> for 10 seconds.\n <color=#FF8E8E><i>You cannot stop running.</i></color>
+<color=#C282F7>💗</color>Purple Candy
+It has a juicy grape smell. Your mouth begins to water.
+<size=14> Gain <color=#69E4FF>330 AHP</color> and <color=#FA79BD>-20% Move speed</color> for 20<size=11>s<size=14>.\n<color=#A5FFF7>AHP absorbs all damage.</color>\n <color=#C9B0F5><i>Your player model becomes fat.</i></color>
+<color=#F53D3D>💗</color>Red Candy
+A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
+<size=15> <color=#F9B174>Breathe Fire</color> for 6 seconds. \n<color=#FF8E8E>DPS</color><color=#FFFFFF>: 20,</color> <color=#C3CBEB>7.5m</color><color=#FFFFFF> Range.</color>
+<color=#76DC89>💗</color>Green Candy
+A nasty, herbal smell emits from the candy.
+<size=14>Gain <color=#BAFFA9>200 Maximum HP</color>, <color=#FEFFC7>-100% Stamina regen delay</color>. \n<color=#1FFF00>Heals 2.5 HP/<size=11>s<size=14></color> when below 100 HP.\n<size=12><color=#FFFF00>Lasts 10 seconds.</color>
+<color=#8EB4FF>💗</color>Blue Candy
+It smells soft and sweet, something akin to a marshmallow.
+<size=14> Become the <color=#FFE1E4>Marshmallow Man</color> for 15<size=11>s<size=14>.<size=12>\n<color=#FFFF00>+25% Damage reduction</color>, Gain <color=#69E4FF>440 AHP</color> that  doesn't decay.\n<color=#A5FFF7>AHP absorbs all damage.</color> <color=#FF8E8E><i>Drop all items.</i></color>\n<color=#DA1010><u>Melee Attack:</u></color> <color=#FFFFFF>65 Damage.</color>
+<color=#F5AAFF>💗</color>Pink Candy
+The strawberry scent is as gentle as it looks.
+- R E D A C T E D -
+<color=#FFAF23>💗</color>Orange Candy
+The citrus-scented candy shines with an enticing luster. Trick or treat?
+<size=14>Applies <color=#FFA200><b>Glowing</b></color> for 30<size=11>s<size=14>.\n<color=#F9B174>Blinds</color> your enemies who look at you.\n<size=12>Can be removed with <color=#FFFFFF>💗White Candy</color>/<color=#A0A0A0>💗Gray Candy</color>.
+<color=#FFFFFF>💗</color>White Candy
+A distinctly sugary smell emanates from within the wrapper. There doesn’t seem to be any candy inside… Trick or treat?
+<size=14>Become <color=#FFFFFF><i>Ghostly</i></color> for 30 seconds. <size=12>\n<color=#FFFFFF>Ability to open/walk through most doors/windows.</color>\n<color=#C9B0F5><i>Your player model becomes translucent.</i></color>\n <color=#FF8E8E><i>You drop items you hold in your hand.</i></color>
+<color=#A0A0A0>💗</color>Gray Candy
+The faint smell of lead emanates from this surprisingly heavy candy. Trick or treat?
+<size=14>Become <color=#A0A0A0><u>Metal</u></color> for 30 seconds. \n <color=#FFFF00>+80% Damage Reduction</color>. \n<color=#FF8E8E>-25% Move speed, -50% Medical item use speed.</color>\n<size=12>Can be removed with <color=#FFFFFF>💗White Candy</color>/<color=#FFAF23>💗Orange Candy</color>.
+<color=#2C2C2C>💗</color>Black Candy
+The overwhelming scent of nothingness makes you gag. You remember tasting it infinite times, but you can't recall the flavor. Trick or treat?
+<size=14><u><color=#8E596B>Randomly chooses one of the following:</color></u> \n<size=10> <color=#FFFFFF>(1)</color>Vanish <color=#FFFFFF>(2)</color>Explode <color=#FFFFFF>(3)</color>1-3 Random Effects <color=#FFFFFF>(4)</color>Teleport(not surface) <color=#FFFFFF>(5)</color>Add 2 black candy <color=#FFFFFF>(6)</color> 1-3 <color=#F7F582>💗</color><color=#C282F7>💗</color><color=#F53D3D>💗</color><color=#76DC89>💗</color><color=#FFFF00>⦿</color><color=#F5AAFF>💗</color> candy effects\n<color=#FFFFFF>(7)</color> 1-3 <color=#FFAF23>💗</color><color=#FFFFFF>💗</color><color=#A0A0A0>💗</color><color=#2C2C2C>💗</color><color=#EE0053>⦿</color><color=#A56C0F>💗</color> candy effects
+<color=#A56C0F>💗</color>Brown Candy
+The familiar scent of coffee entices you. Trick or treat?
+An extremely effective laxative. 
+<color=#EE0053>⦿</color>Evil Candy
+The piece of candy pulses with an evil energy. Trick or treat?
+Turns you evil (really rare).
